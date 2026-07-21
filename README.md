@@ -115,29 +115,7 @@ Control Computer using Hand Gestures.
 
 OpenCV + MediaPipe
 
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Lakshay-V7&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshay-V7&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshay-V7&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
+--
 
 # 📫 Connect With Me
 
